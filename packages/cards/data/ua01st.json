@@ -1,0 +1,542 @@
+[
+  {
+    "id": "UA01ST/CGH-1-001",
+    "functionalId": "CGH-1-001",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "扇 要",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 2
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "none",
+    "effectText": "このキャラがアクティブの場合、このキャラの発生エナジー+ [紫] 。",
+    "triggerText": "-",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-001-098b55aa.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-001",
+    "sourceSha256": "8b673b35a90f224c06d35e7aabe8a3c1665bfb65dc7405079bfd206722e03b05",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 2500,
+    "bpPlus": false,
+    "energyPlus": true
+  },
+  {
+    "id": "UA01ST/CGH-1-002",
+    "functionalId": "CGH-1-002",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "紅月 カレン",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 0
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "get",
+    "effectText": "-",
+    "triggerText": "[ゲット] このカードを手札に加える。",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-002-1434c986.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-002",
+    "sourceSha256": "299163d1efa8e1df21a966eb050513dc5380deaf90f9c803d6959455594a28bb",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 1500,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-005",
+    "functionalId": "CGH-1-005",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "C.C.",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 0
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "none",
+    "effectText": "[起動メイン]  [レストにする]   [ターン1] このターン中、このキャラの発生エナジー+ [紫] 。メインフェイズ終了時、このキャラを退場させる。",
+    "triggerText": "-",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-005-e5b9f820.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-005",
+    "sourceSha256": "f0409977e22cb5d464739191a61e4c5d7cf0c160216b3014fb01fa1200c2fea5",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 1000,
+    "bpPlus": false,
+    "energyPlus": true
+  },
+  {
+    "id": "UA01ST/CGH-1-008",
+    "functionalId": "CGH-1-008",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "皇 神楽耶",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 1
+    },
+    "generatedEnergy": {
+      "purple": 2
+    },
+    "triggerType": "none",
+    "effectText": "[登場時] 必要エナジーが1以下の自分の場の他のキャラを1枚手札に戻す。戻せない場合、このキャラを手札に戻す。",
+    "triggerText": "-",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-008-0d0d3e1f.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-008",
+    "sourceSha256": "0f9855220aa7b1a7d380a20df18a8506ca3027a3fd641753999c666428704e11",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 1500,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-011",
+    "functionalId": "CGH-1-011",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "ディートハルト・リート",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 0
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "none",
+    "effectText": "[登場時] 自分の山札の上から1枚見る。そのカードを自分の山札の上か下に置く。",
+    "triggerText": "-",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-011-eb5a40e1.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-011",
+    "sourceSha256": "31b2be495a980d7c4932a73c27c9c5ba5680d415c60766d0f99a2613e6304324",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 2000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-015",
+    "functionalId": "CGH-1-015",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "ルルーシュ・ランペルージ",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 3
+    },
+    "generatedEnergy": {
+      "purple": 2
+    },
+    "triggerType": "active",
+    "effectText": "[登場時] 自分の場のキャラを1枚まで選び、このターン中、「このキャラはBP2000以下のキャラにブロックされない。」を与える。",
+    "triggerText": "[アクティブ] 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-015-631d352a.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-015",
+    "sourceSha256": "c7706b8d777960a01a1826482d200420159e3566f23956de7fc4350d81857eb8",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 3000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-029",
+    "functionalId": "CGH-1-029",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "合衆国日本",
+    "colors": [
+      "purple"
+    ],
+    "kind": "event",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 3
+    },
+    "generatedEnergy": {},
+    "triggerType": "final",
+    "effectText": "自分のAPカードを2枚まで選び、アクティブにする。",
+    "triggerText": "[ファイナル] 自分のライフが無い場合、自分の山札の上から1枚を自分のライフエリアに置く。",
+    "traits": "-",
+    "imageFile": "images/UA01ST_CGH-1-029-a9dd7a14.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-029",
+    "sourceSha256": "5b129fa89e7c1ac88796c828486f8991dae38b174227a4da72856fff1882c002",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-030",
+    "functionalId": "CGH-1-030",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "絶対遵守のギアス",
+    "colors": [
+      "purple"
+    ],
+    "kind": "event",
+    "apCost": 2,
+    "requiredEnergy": {
+      "purple": 4
+    },
+    "generatedEnergy": {},
+    "triggerType": "special",
+    "effectText": "BP5000以下の相手のフロントLのキャラを1枚選び、退場させる。自分の場に〈ルルーシュ・ランペルージ〉がある場合、自分のAPカードを1枚まで選び、アクティブにする。",
+    "triggerText": "[スペシャル] 相手のフロントLのキャラを1枚選び、退場させる。",
+    "traits": "-",
+    "imageFile": "images/UA01ST_CGH-1-030-6871c1a0.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-030",
+    "sourceSha256": "e45692a4623f0380ecefc64ae65b308e512b88f4832947fb45d332441a5c6691",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-033",
+    "functionalId": "CGH-1-033",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "チェックメイト",
+    "colors": [
+      "purple"
+    ],
+    "kind": "event",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 2
+    },
+    "generatedEnergy": {},
+    "triggerType": "active",
+    "effectText": "自分のフロントLのキャラを1枚選び、このターン中、BP+2000。自分の場に〈ルルーシュ・ランペルージ〉がある場合、さらにこのターン中、 [インパクト（+1）] （インパクトの与えるダメージが+1され、インパクトを持たない場合、 [インパクト（1）] を得る）を与える。",
+    "triggerText": "[アクティブ] 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "traits": "-",
+    "imageFile": "images/UA01ST_CGH-1-033-670af34f.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-033",
+    "sourceSha256": "8391015dd6973d4d3c90e0e304302465e634bb5eb92ba263daacf2749328a50e",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-101",
+    "functionalId": "CGH-1-101",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "紅月 カレン",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 3
+    },
+    "generatedEnergy": {
+      "purple": 2
+    },
+    "triggerType": "active",
+    "effectText": "-",
+    "triggerText": "[アクティブ] 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-101-38d71d91.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-101",
+    "sourceSha256": "7169a52692dab7540365017fc4386e6457406149e0ee9921d698258e9fff5486",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 3000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-102",
+    "functionalId": "CGH-1-102",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "C.C.",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 2,
+    "requiredEnergy": {
+      "purple": 4
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "active",
+    "effectText": "[登場時] 自分の場外から紫のキャラカードを1枚まで手札に加える。",
+    "triggerText": "[アクティブ] 自分の場のキャラを1枚選び、アクティブにし、このターン中、BP+3000。",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-102-280f0993.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-102",
+    "sourceSha256": "be872fe1db3902f551f966bad91a2600489bf9d1118583da32ea0963af000d55",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 4000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-103",
+    "functionalId": "CGH-1-103",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "ルルーシュ・ランペルージ",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 2,
+    "requiredEnergy": {
+      "purple": 4
+    },
+    "generatedEnergy": {
+      "purple": 2
+    },
+    "triggerType": "draw",
+    "effectText": "[登場時] 相手のフロントLのキャラを1枚まで選び、このターン中、BP-3000。",
+    "triggerText": "[ドロー] カードを1枚引く。",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-103-c3f99a3a.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-103",
+    "sourceSha256": "7c2ae529e69a6951439e1192ec4c557b70a2c2eef11b9913351f0f9fd252dbd7",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 3000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-104",
+    "functionalId": "CGH-1-104",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "玉城 真一郎",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 0
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "none",
+    "effectText": "-",
+    "triggerText": "-",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-104-1419ff43.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-104",
+    "sourceSha256": "6d55431954440d8bcef9ca3e4f8dae1923cc1dbe4b767f9edd4c8d8e2ce8da83",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 2000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-105",
+    "functionalId": "CGH-1-105",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "ラクシャータ・チャウラー",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 1
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "none",
+    "effectText": "[登場時] 自分の山札の上から4枚見る。その中から［特徴：KMF］を1枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。手札に加えた場合、自分の手札を1枚場外に置く。",
+    "triggerText": "-",
+    "traits": "黒の騎士団",
+    "imageFile": "images/UA01ST_CGH-1-105-34bc9738.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-105",
+    "sourceSha256": "29a2a5b79d7970d7543dd1b8115eeca276e4b944ca2afee5cb627ced291bd373",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 2000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-106",
+    "functionalId": "CGH-1-106",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "無頼",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 3
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "get",
+    "effectText": "[レイド] ［特徴：黒の騎士団］アクティブにし、フロントLに移動できる\n [登場時] カードを1枚引く。",
+    "triggerText": "[ゲット] このカードを手札に加える。",
+    "traits": "黒の騎士団／KMF",
+    "imageFile": "images/UA01ST_CGH-1-106-0581a389.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-106",
+    "sourceSha256": "02e6ac149095e63f632cf6c2970f9ef8a0203db80e1f6e10b285dbacce350cae",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 3500,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-107",
+    "functionalId": "CGH-1-107",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "紅蓮弐式",
+    "colors": [
+      "purple"
+    ],
+    "kind": "character",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 5
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "raid",
+    "effectText": "[レイド] 〈紅月 カレン〉アクティブにし、フロントLに移動できる\n [登場時] BP3000以下の相手のフロントLのキャラを1枚まで選び、退場させる。このキャラはこのターン中、 [インパクト（1）] （アタックしてバトルに勝利した時、相手プレイヤーに1ダメージ）を得る。",
+    "triggerText": "[レイド] このカードを手札に加えるか、必要エナジーを満たしている場合、レイドさせる。",
+    "traits": "黒の騎士団／KMF",
+    "imageFile": "images/UA01ST_CGH-1-107-bd4eafaa.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-107",
+    "sourceSha256": "45e0a96ca45fde0b4dedcbcc447759101d70ecbeb4281396bf3605551d4f030a",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "bp": 4000,
+    "bpPlus": false,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-108",
+    "functionalId": "CGH-1-108",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "トレーラー",
+    "colors": [
+      "purple"
+    ],
+    "kind": "field",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 2
+    },
+    "generatedEnergy": {
+      "purple": 1
+    },
+    "triggerType": "get",
+    "effectText": "このフィールドはアクティブで場に登場させる。\n [起動メイン]  [レストにする] 自分の場の［特徴：黒の騎士団］全ては、このターン中、BP+500。",
+    "triggerText": "[ゲット] このカードを手札に加える。",
+    "traits": "-",
+    "imageFile": "images/UA01ST_CGH-1-108-8c080a42.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-108",
+    "sourceSha256": "eb3cdf17b4d8a726ce1c7d856a014d5ef41d84d41b555a48e43ee99a6fd10efd",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "energyPlus": false
+  },
+  {
+    "id": "UA01ST/CGH-1-109",
+    "functionalId": "CGH-1-109",
+    "work": "コードギアス 反逆のルルーシュ",
+    "workName": "コードギアス 反逆のルルーシュ",
+    "name": "黒の騎士団",
+    "colors": [
+      "purple"
+    ],
+    "kind": "event",
+    "apCost": 1,
+    "requiredEnergy": {
+      "purple": 1
+    },
+    "generatedEnergy": {},
+    "triggerType": "draw",
+    "effectText": "自分の山札の上から3枚見る。その中から［特徴：黒の騎士団］を2枚まで公開し手札に加える。残りを望む順で自分の山札の下に置く。",
+    "triggerText": "[ドロー] カードを1枚引く。",
+    "traits": "-",
+    "imageFile": "images/UA01ST_CGH-1-109-8d4b9272.png",
+    "sourceUrl": "https://www.unionarena-tcg.com/jp/cardlist/detail.php?card_no=UA01ST%2FCGH-1-109",
+    "sourceSha256": "b2568763160a527b9fa8cbface7045c9534a4f0f2ca96c63250df1362aae9699",
+    "checkedAt": "2026-09-25",
+    "availability": "catalog-only",
+    "copyLimit": 4,
+    "energyPlus": false
+  }
+]

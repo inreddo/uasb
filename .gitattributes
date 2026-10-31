@@ -1,0 +1,2 @@
+# CRLF and LF are mixed in the tree: store bytes exactly as on disk, never convert line endings.
+* -text

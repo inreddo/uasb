@@ -1,0 +1,11 @@
+export type * from './types.ts';
+export { createMatch, applyCommand, checkAction, getDefinition, getEnergy, getBP, getImpact, getDamage, getGeneratedEnergy, requiredEnergyOf } from './engine.ts';
+export { getPlayerView } from './view.ts';
+export type { PlayerView, PlayerViewOptions } from './view.ts';
+export { serializeGame, restoreGame } from './snapshot.ts';
+export { buildMatchCatalog, energyRepresentatives } from './matchCatalog.ts';
+export type { MatchCatalog } from './matchCatalog.ts';
+export { assertInvariants, RuleError } from './validation.ts';
+export { hasTrait, hasAnyTrait, traitName } from './traits.ts';
+export { inspectDeck, additionIssue, DECK_SIZE, AP_CARDS, SPECIAL_TRIGGERS } from './deck-rules.ts';
+export type { ConstructionCard, DeckIssue } from './deck-rules.ts';
